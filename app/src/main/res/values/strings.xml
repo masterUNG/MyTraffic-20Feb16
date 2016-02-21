@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">My Traffic</string>
+    <string name="app_name">Easy Traffic</string>
 
     <string name="head">จราจร</string>
     <string name="about">About Me</string>
+    <string name="back">กลับ</string>
 
 </resources>
